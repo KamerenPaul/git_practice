@@ -9,3 +9,4 @@ You can start the project with the start command
 ## Building steps
 
 1. Install nodejs
+2. Install 
